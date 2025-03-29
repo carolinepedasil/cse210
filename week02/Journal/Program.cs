@@ -1,4 +1,9 @@
-﻿using System;
+﻿// Exceeds core requirements by:
+// - Adding a 'Mood' property to each journal entry
+// - Asking the user to record their mood when writing an entry
+// - Saving and displaying the mood along with prompt and response
+
+using System;
 
 class Program
 {
