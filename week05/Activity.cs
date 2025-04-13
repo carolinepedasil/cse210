@@ -19,7 +19,10 @@ public class Activity
         Console.WriteLine($"Welcome to the {_name}.");
         Console.WriteLine(_description);
         Console.Write("\nHow long, in seconds, would you like this session? ");
-        _duration = int.Parse(Console.ReadLine());
+        while (!int.TryParse(Console.ReadLine(), out _duration) || _duration <= 0)
+        {
+            Console.Write("Please enter a valid positive number: ");
+        }
         Console.WriteLine("\nGet ready...");
         ShowSpinner(3);
     }

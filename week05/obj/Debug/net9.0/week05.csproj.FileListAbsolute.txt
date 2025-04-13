@@ -1,0 +1,15 @@
+C:\Users\carol\cse210\week05\bin\Debug\net9.0\week05.exe
+C:\Users\carol\cse210\week05\bin\Debug\net9.0\week05.deps.json
+C:\Users\carol\cse210\week05\bin\Debug\net9.0\week05.runtimeconfig.json
+C:\Users\carol\cse210\week05\bin\Debug\net9.0\week05.dll
+C:\Users\carol\cse210\week05\bin\Debug\net9.0\week05.pdb
+C:\Users\carol\cse210\week05\obj\Debug\net9.0\week05.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\carol\cse210\week05\obj\Debug\net9.0\week05.AssemblyInfoInputs.cache
+C:\Users\carol\cse210\week05\obj\Debug\net9.0\week05.AssemblyInfo.cs
+C:\Users\carol\cse210\week05\obj\Debug\net9.0\week05.csproj.CoreCompileInputs.cache
+C:\Users\carol\cse210\week05\obj\Debug\net9.0\week05.sourcelink.json
+C:\Users\carol\cse210\week05\obj\Debug\net9.0\week05.dll
+C:\Users\carol\cse210\week05\obj\Debug\net9.0\refint\week05.dll
+C:\Users\carol\cse210\week05\obj\Debug\net9.0\week05.pdb
+C:\Users\carol\cse210\week05\obj\Debug\net9.0\week05.genruntimeconfig.cache
+C:\Users\carol\cse210\week05\obj\Debug\net9.0\ref\week05.dll
